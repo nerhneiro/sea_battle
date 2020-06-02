@@ -1,0 +1,11 @@
+/Users/IS2012/Projects/sea_battle/sea_battle/bin/Debug/netcoreapp2.1/sea_battle.deps.json
+/Users/IS2012/Projects/sea_battle/sea_battle/bin/Debug/netcoreapp2.1/sea_battle.runtimeconfig.json
+/Users/IS2012/Projects/sea_battle/sea_battle/bin/Debug/netcoreapp2.1/sea_battle.runtimeconfig.dev.json
+/Users/IS2012/Projects/sea_battle/sea_battle/bin/Debug/netcoreapp2.1/sea_battle.dll
+/Users/IS2012/Projects/sea_battle/sea_battle/bin/Debug/netcoreapp2.1/sea_battle.pdb
+/Users/IS2012/Projects/sea_battle/sea_battle/obj/Debug/netcoreapp2.1/sea_battle.csprojAssemblyReference.cache
+/Users/IS2012/Projects/sea_battle/sea_battle/obj/Debug/netcoreapp2.1/sea_battle.csproj.CoreCompileInputs.cache
+/Users/IS2012/Projects/sea_battle/sea_battle/obj/Debug/netcoreapp2.1/sea_battle.AssemblyInfoInputs.cache
+/Users/IS2012/Projects/sea_battle/sea_battle/obj/Debug/netcoreapp2.1/sea_battle.AssemblyInfo.cs
+/Users/IS2012/Projects/sea_battle/sea_battle/obj/Debug/netcoreapp2.1/sea_battle.dll
+/Users/IS2012/Projects/sea_battle/sea_battle/obj/Debug/netcoreapp2.1/sea_battle.pdb
